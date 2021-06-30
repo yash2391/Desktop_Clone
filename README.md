@@ -3,7 +3,6 @@ The primary objective of this project is to analyze Graphical User Interface (GU
 
 #Result Screenshots
 <img width="1440" alt="Screenshot 2021-05-07 at 9 16 38 PM" src="https://user-images.githubusercontent.com/66413152/123938398-b6413700-d9b4-11eb-839c-90ce71fea368.png">
-<img width="1440" alt="Screenshot 2021-05-07 at 9 17 35 PM" src="https://user-images.githubusercontent.com/66413152/123938416-b93c2780-d9b4-11eb-851a-f59abe77af1d.png">
 <img width="1440" alt="Screenshot 2021-05-07 at 9 18 08 PM" src="https://user-images.githubusercontent.com/66413152/123938423-ba6d5480-d9b4-11eb-8a61-21f4b13a438d.png">
 <img width="1440" alt="Screenshot 2021-05-07 at 9 18 21 PM" src="https://user-images.githubusercontent.com/66413152/123938427-bb05eb00-d9b4-11eb-8d5f-1ff09b30967e.png">
 <img width="1440" alt="Screenshot 2021-05-07 at 9 18 33 PM" src="https://user-images.githubusercontent.com/66413152/123938433-bccfae80-d9b4-11eb-971b-7b1bb90aaa99.png">
